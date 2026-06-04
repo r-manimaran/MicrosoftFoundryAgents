@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AgentApp/AgentApp.csproj" />
+  <Project Path="SharedLib/SharedLib.csproj" />
+</Solution>
