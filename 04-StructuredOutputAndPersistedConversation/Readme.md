@@ -1,1 +1,1 @@
-#Using steuctured output and Persisted Conversation using Foundry agent
+# Using structured output and Persisted Conversation using Foundry agent
